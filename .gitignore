@@ -46,3 +46,6 @@ Assets/Water/Materials/Water_Mat.mat
 # Screenshots
 Assets/Screenshots/
 Assets/Water/Screenshots/
+
+# OMC session data
+.omc/
