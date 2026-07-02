@@ -49,3 +49,8 @@ Assets/Water/Screenshots/
 
 # OMC session data
 .omc/
+
+# Directory metas for ignored directories
+Assets/Screenshots.meta
+Assets/Editor.meta
+Assets/Scripts.meta
